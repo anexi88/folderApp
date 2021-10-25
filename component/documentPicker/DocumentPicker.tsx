@@ -8,7 +8,7 @@ import AdvanceExplorer from './AdvanceExplorer';
 
 interface Props {
     types?: string[]; // only Windows and Android
-    customButton?: View | undefined;
+    customButton?: any | undefined;
     customStyle?: ViewStyle
     buttonColor?: string;
     buttonText: string;
