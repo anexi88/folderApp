@@ -1,0 +1,6 @@
+module Pods_folderApp_folderAppTests {
+  umbrella header "Pods-folderApp-folderAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
